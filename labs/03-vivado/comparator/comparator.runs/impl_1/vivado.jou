@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Feb 24 15:59:13 2022
+# Process ID: 19936
+# Current directory: C:/Users/evald/OneDrive/Dokumentai/Digital-electronics/digital-electronics-1/labs/03-vivado/comparator/comparator.runs/impl_1
+# Command line: vivado.exe -log comparator_4bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source comparator_4bit.tcl -notrace
+# Log file: C:/Users/evald/OneDrive/Dokumentai/Digital-electronics/digital-electronics-1/labs/03-vivado/comparator/comparator.runs/impl_1/comparator_4bit.vdi
+# Journal file: C:/Users/evald/OneDrive/Dokumentai/Digital-electronics/digital-electronics-1/labs/03-vivado/comparator/comparator.runs/impl_1\vivado.jou
+# Running On: LAPTOP-58SCFF8G, OS: Windows, CPU Frequency: 2371 MHz, CPU Physical cores: 6, Host memory: 7969 MB
+#-----------------------------------------------------------
+source comparator_4bit.tcl -notrace
