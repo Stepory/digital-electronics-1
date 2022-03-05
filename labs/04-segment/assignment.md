@@ -1,4 +1,4 @@
-# Lab 4: YOUR_FIRSTNAME LASTNAME
+# Lab 4: Evaldas Chmylko
 
 ### Seven-segment display decoder
 
