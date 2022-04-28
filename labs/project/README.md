@@ -32,7 +32,7 @@ A scan screen control circuit can be used to display an eight-digit number on th
 
 ## VHDL modules description and simulations
 
-![your figure](block_diagram.png)
+![your figure](block_diagram.jpg)
 
 The Clock.vhd module is the clock itself. It changes the 6 digits H1, H2, M1, M2, S1, S2, which are the hours, tens of hours, minutes, tens of minutes, seconds and tens of seconds accordingly . In order to achieve that we are using the clk signal and if statements. Digits are shown using the integrated 7-segment displays of the Nexys A7 board.
 In the alarm.vhd module we are using the integrated buttons on the given board. The position of the digit, which we are changing is changed with buttons BTNL for left and BTNR for right. The actual digit is changed with buttons BTNU for +1 and BTND for -1. We also have an accord LED of the board light up to indicate the position of the digit, which we are changing. For the alarm we only use hours and minutes, since using seconds seems redundant.
