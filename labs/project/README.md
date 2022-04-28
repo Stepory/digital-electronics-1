@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Chmylko Evaldas (responsible for Clock.vhd, alarm.vhd, alarmcompare.vhd, Dposition.vhd)
+* Wang Jia-Yang (responsible for Clock.vhd, implementation, testbenches, alarm.vhd)
+* Arica Ecem Doga (responsible for setClock.vhd, implementation)
+* Turk Hande Nur (responsible for setClock.vhd, testbenches)
 
 ### Table of contents
 
@@ -50,10 +50,11 @@ cnt_up_down and driver_7seg_6digits are used to run the 6 7-segment displays. Da
 
 ## Video
 
-Write your text here
+https://youtu.be/oPk_fgWcGG4
 
 <a name="references"></a>
 
 ## References
 
 1. https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual?redirect=1
+2. https://github.com/tomas-fryza/digital-electronics-1/tree/master/labs
